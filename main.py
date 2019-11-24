@@ -1,3 +1,6 @@
+# This main file contains back end scripting of key strokes
+# You can find info about other files in readme file
+
 import pynput
 
 from pynput.keyboard import Key, Listener
