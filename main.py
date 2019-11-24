@@ -1,3 +1,7 @@
+# This main file contains back end scripting of key strokes
+# Another file named key_gui will be used for user interface
+# We will also try using sqlite for database in this project.
+
 import pynput
 
 from pynput.keyboard import Key, Listener
