@@ -1,6 +1,5 @@
 # This main file contains back end scripting of key strokes
-# Another file named key_gui will be used for user interface
-# We will also try using sqlite for database in this project.
+# You can find info about other files in readme file
 
 import pynput
 
